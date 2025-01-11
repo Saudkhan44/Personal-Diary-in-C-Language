@@ -1,1 +1,0 @@
-# Personal-Diary-in-C-Language
